@@ -1,4 +1,4 @@
-# Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training withWord Segmentation
+# Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training with Word Segmentation
 Paper pdf for the Chinese Named Entity Recognition algorithm proposed in the following paper.
 
 Fangzhao Wu, Junxin Liu,  Chuhan Wu, Yongfeng Huang, and Xing Xie. Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training withWord Segmentation. WWW 2019
