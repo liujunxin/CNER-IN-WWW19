@@ -1,7 +1,7 @@
 # Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training with Word Segmentation
 Paper pdf for the Chinese Named Entity Recognition algorithm proposed in the following paper.
 
-Fangzhao Wu, Junxin Liu,  Chuhan Wu, Yongfeng Huang, and Xing Xie. Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training withWord Segmentation. WWW 2019
+Fangzhao Wu, Junxin Liu,  Chuhan Wu, Yongfeng Huang, and Xing Xie. Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training with Word Segmentation. WWW 2019
 
 ## Abstract
 Chinese named entity recognition (CNER) is an important task in Chinese natural language processing field. However, CNER is very challenging since Chinese entity names are highly contextdependent. In addition, Chinese texts lack delimiters to separate words, making it difficult to identify the boundary of entities. Besides, the training data for CNER in many domains is usually insufficient, and annotating enough training data for CNER is very expensive and time-consuming. In this paper, we propose a neural approach for CNER. First, we introduce a CNN-LSTM-CRF neural architecture to capture both local and long-distance contexts for CNER. Second, we propose a unified framework to jointly train CNER and word segmentation models in order to enhance the ability of CNER model in identifying entity boundaries. Third, we introduce an automatic method to generate pseudo labeled samples from existing labeled data which can enrich the training data. Experiments on two benchmark datasets show that our approach can effectively improve the performance of Chinese named entity recognition, especially when training data is insufficient.
